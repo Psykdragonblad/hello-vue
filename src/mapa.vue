@@ -2,7 +2,7 @@
     
    <div>
        <div>
-       <router-link to="/marcos">Sub-link</router-link>
+       <router-link to="/marcos">Eu sou um link do componente mapa</router-link>
      </div>
 <!--                
   <keep-alive>    
